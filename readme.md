@@ -29,7 +29,7 @@
 
   <tr>
     <td><b>Databases & ORM</b></td>
-    <td>PostgreSQL, SQLAlchemy, Alembic</td>
+    <td>MongoDB, PostgreSQL, SQLAlchemy, Alembic</td>
   </tr>
 
   <tr>
