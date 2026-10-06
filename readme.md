@@ -25,7 +25,7 @@
 
   <tr>
     <td><b>Databases & ORM</b></td>
-    <td>MongoDB, PostgreSQL, MySQL, Alembic</td>
+    <td>MongoDB, PostgreSQL, MySQL, ElasticSearch, Alembic</td>
   </tr>
 
   <tr>
